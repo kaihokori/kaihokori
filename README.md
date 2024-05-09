@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm Kyle (aka Kai), a Software Developer and Data Scientist that has a passion for iOS, Web Development and UX/UI designs.
+
+Hey there! I'm Kyle (aka Kai), 👋<br><br>
+An advanced computing student at the University of Sydney focusing on software development and data science 🥳🙌.
 
 
 ## 🌐 Socials:
