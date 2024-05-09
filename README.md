@@ -1,7 +1,6 @@
 # 💫 About Me:
 
-Hey there! I'm Kyle (aka Kai), 👋<br><br>
-An advanced computing student at the University of Sydney focusing on software development and data science 🥳🙌.
+Hey there 👋! <br><br>I'm Kyle (aka Kai), an Advanced Computing student at the University of Sydney focusing on software development and data science 🥳🙌.
 
 
 ## 🌐 Socials:
